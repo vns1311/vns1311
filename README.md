@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=vns1311&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vns1311&langs_count=1&theme=dark&layout=compact)]
 <!--
 **vns1311/vns1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
