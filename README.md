@@ -15,3 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vns1311&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=vns1311&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[twitter]: https://twitter.com/vnshyamkumar
