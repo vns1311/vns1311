@@ -1,5 +1,6 @@
 
-### Hi there 👋
+### [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Shyam
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 - 🔭 I’m currently working on Scala, Python, NLP
 - 🌱 I’m currently learning Deep Learning, PyTorch, Tensorflow
 - 👯 I’m looking to collaborate on NLP, Machine Learning
